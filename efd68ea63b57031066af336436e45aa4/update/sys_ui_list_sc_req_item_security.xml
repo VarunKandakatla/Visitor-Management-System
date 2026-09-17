@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sc_req_item" version="2" view="security">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="sc_req_item" element="NULL" name="sc_req_item" parent="NULL" relationship="NULL" sys_domain="global" view="2c9f82ea3b97031066af336436e45afb">96f812f23b1b831066af336436e45a53</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-17 02:48:00</sys_created_on>
+            <sys_id>d2f812f23b1b831066af336436e45a54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-17 02:48:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="sc_req_item" element="NULL" name="sc_req_item" parent="NULL" relationship="NULL" sys_domain="global" view="2c9f82ea3b97031066af336436e45afb">96f812f23b1b831066af336436e45a53</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-17 02:48:00</sys_created_on>
+            <sys_id>5af812f23b1b831066af336436e45a54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-17 02:48:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="sc_req_item" element="NULL" name="sc_req_item" parent="NULL" relationship="NULL" sys_domain="global" view="2c9f82ea3b97031066af336436e45afb">96f812f23b1b831066af336436e45a53</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-17 02:48:00</sys_created_on>
+            <sys_id>def812f23b1b831066af336436e45a54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-17 02:48:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="sc_req_item" element="NULL" name="sc_req_item" parent="NULL" relationship="NULL" sys_domain="global" view="2c9f82ea3b97031066af336436e45afb">96f812f23b1b831066af336436e45a53</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-17 02:48:00</sys_created_on>
+            <sys_id>56f812f23b1b831066af336436e45a55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-17 02:48:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sc_req_item</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-17 02:48:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96f812f23b1b831066af336436e45a53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_package display_value="Visitor Management" source="x_1315441_visito_0">efd68ea63b57031066af336436e45aa4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Management">efd68ea63b57031066af336436e45aa4</sys_scope>
+            <sys_update_name>sys_ui_list_sc_req_item_security</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-17 02:48:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Security" name="security">2c9f82ea3b97031066af336436e45afb</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

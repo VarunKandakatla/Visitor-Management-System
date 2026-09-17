@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="global_search_config_handler=RequestItemSearchConfig,hasWorkflow=true" audit="true" create_roles="catalog_admin" db_object_id="a805b6bb8c5503100a22deb6dd2b4e26" extends="task" label="Requested Item" max_length="40" name="sc_req_item" text_index="true" type="collection">
+        <element label="Check in Time" max_length="255" name="x_1315441_visito_0_check_in_time" type="glide_time"/>
+        <element label="Check out" max_length="255" name="x_1315441_visito_0_check_out" type="boolean"/>
+        <element label="Check in" max_length="255" name="x_1315441_visito_0_check_in" type="boolean"/>
+        <element label="Check out Time" max_length="255" name="x_1315441_visito_0_check_out_time" type="glide_utc_time"/>
+    </element>
+</database>

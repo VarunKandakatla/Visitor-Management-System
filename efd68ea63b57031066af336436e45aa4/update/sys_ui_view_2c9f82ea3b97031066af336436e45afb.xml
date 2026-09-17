@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>security</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-16 07:28:26</sys_created_on>
+        <sys_id>2c9f82ea3b97031066af336436e45afb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security</sys_name>
+        <sys_package display_value="Visitor Management" source="x_1315441_visito_0">efd68ea63b57031066af336436e45aa4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">efd68ea63b57031066af336436e45aa4</sys_scope>
+        <sys_update_name>sys_ui_view_2c9f82ea3b97031066af336436e45afb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-16 07:28:26</sys_updated_on>
+        <title>Security</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Visit Date">d29bc6a23b97031066af336436e45a5b</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-16 07:12:43</sys_created_on>
+        <sys_id>05abc6a23b97031066af336436e45a54</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Company Visit</sys_name>
+        <sys_package display_value="Visitor Management" source="x_1315441_visito_0">efd68ea63b57031066af336436e45aa4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">efd68ea63b57031066af336436e45aa4</sys_scope>
+        <sys_update_name>question_choice_05abc6a23b97031066af336436e45a54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-16 07:12:49</sys_updated_on>
+        <text>Company Visit</text>
+        <value>1</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=05abc6a23b97031066af336436e45a54"/>
+</record_update>
