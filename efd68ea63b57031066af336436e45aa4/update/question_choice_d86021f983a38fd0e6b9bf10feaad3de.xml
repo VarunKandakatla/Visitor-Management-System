@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Vehicle Type">3550e5b983a38fd0e6b9bf10feaad3e8</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-26 06:22:44</sys_created_on>
+        <sys_id>d86021f983a38fd0e6b9bf10feaad3de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>2 Wheeler</sys_name>
+        <sys_package display_value="Visitor Management" source="x_1315441_visito_0">efd68ea63b57031066af336436e45aa4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">efd68ea63b57031066af336436e45aa4</sys_scope>
+        <sys_update_name>question_choice_d86021f983a38fd0e6b9bf10feaad3de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-26 06:23:33</sys_updated_on>
+        <text>2 Wheeler</text>
+        <value>2</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=d86021f983a38fd0e6b9bf10feaad3de"/>
+</record_update>
